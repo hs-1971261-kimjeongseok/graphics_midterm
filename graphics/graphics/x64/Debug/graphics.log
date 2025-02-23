@@ -1,0 +1,57 @@
+﻿  1971261.cpp
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(84,15): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(86,14): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(91,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(91,17): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(93,14): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(100,69): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(100,47): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(103,52): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(103,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(107,38): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(107,18): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(117,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(135,97): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(135,74): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(135,37): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(138,62): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(138,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(138,23): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(142,43): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(142,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(150,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(150,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(152,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(156,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(162,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(162,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(164,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(168,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(174,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(178,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(184,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(186,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(191,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(193,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(204,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(204,15): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(214,53): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(214,29): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(223,77): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(223,42): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(237,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(237,15): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(239,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(239,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(244,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(252,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(252,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(258,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(263,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(263,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(269,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(275,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(279,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(285,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+F:\학업\23-1\cg\graphics\graphics\1971261.cpp(292,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  graphics.vcxproj -> F:\학업\23-1\cg\graphics\x64\Debug\graphics.exe
